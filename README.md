@@ -2,8 +2,6 @@
 
 This is a sample input file for LAMMPS to simulate a collision of two droplets.
 
-Hello
-
 ## Usage
 
 ```sh
